@@ -1,0 +1,1 @@
+{"name":"Local: quicksort","url":"c:\\Users\\HP\\OneDrive\\Documents\\VSCODE\\DSA(C++)Striver\\Sorting\\quicksort.cpp","tests":[{"id":1735646220926,"input":"6\n1 6 8 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Documents\\VSCODE\\DSA(C++)Striver\\Sorting\\quicksort.cpp","group":"local","local":true}

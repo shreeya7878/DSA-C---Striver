@@ -1,0 +1,1 @@
+{"name":"Local: bubblesort","url":"c:\\Users\\HP\\OneDrive\\Documents\\VSCODE\\DSA(C++)Striver\\Sorting\\bubblesort.cpp","tests":[{"id":1735322985281,"input":"6\n13 46 24 52 20 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Documents\\VSCODE\\DSA(C++)Striver\\Sorting\\bubblesort.cpp","group":"local","local":true}
